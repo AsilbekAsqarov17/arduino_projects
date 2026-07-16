@@ -1,0 +1,10 @@
+# Ignore local Arduino IDE compilation, temporary, and build files
+/build/
+/libraries/
+.vscode/
+
+# Ignore log files, lock files, and hardware simulation caches
+*.log
+*.tmp
+*.hex
+*.elf
